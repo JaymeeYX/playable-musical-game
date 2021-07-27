@@ -1,0 +1,265 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="3=!e@69KMuok@W|_a_wE" x="-2" y="-1577"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="j2-=12;!oxs5B9?5XqcG"><field name="LEDS">`
+        . # . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="x$6,_Yd?Cjr0G;@e![Wh"><field name="LEDS">`
+        . . . # . 
+        . # . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="su%A*7+[SbR#=iDiBCb#"><field name="LEDS">`
+        . . . # . 
+        . # . # . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_play_note" id="vFPa7DmPZ(t,D~@eVec7"><value name="note"><shadow type="device_note" id="8MK4:QGN],-NiXSimkvv"><field name="name">587</field></shadow></value><value name="duration"><shadow type="device_beat" id="lb_VYEA/bK-LogoWu.#A"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="Y*1{KH[6t+5jW1[8-5a="><field name="LEDS">`
+        . . . # . 
+        . . . # . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_play_note" id="DywKI$Fa0A8/|u42ZX/2"><value name="note"><shadow type="device_note" id="dM:nk{:LsNUn=L~AIMd@"><field name="name">698</field></shadow></value><value name="duration"><shadow type="device_beat" id="almDu^jIJa+sx:=sHNx8"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="N4KaR-uxk0%6?3b[ob!H"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="fIzC+l5H4r|L}ugbL8X`"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="|4I@:{P2W~}@?yBTAXMJ" x="563" y="-1497"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Q+Uu$Oo!{j%%RU!Dw#3-"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="=*qR[Kt7n/ow:b9aL?`y"><field name="LEDS">`
+        . # . . . 
+        # . . . . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="f,VzN)pe2+U:_Xl{`qD4"><field name="LEDS">`
+        . # . . . 
+        # # . . . 
+        # . . . . 
+        # # # # # 
+        # . . . .
+        `</field><next><block type="device_play_note" id="V^d_w3jrOD=XPk_)3F?p"><value name="note"><shadow type="device_note" id="}54NM%2f{0]5I0jilKfP"><field name="name">523</field></shadow></value><value name="duration"><shadow type="device_beat" id="`gh7PI-UNI_H=UrPZRWf"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="LZB_p|;06?@}3TaE|s^U"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_play_note" id=";br0E7sO4ZvNUC`T:^@x"><value name="note"><shadow type="device_note" id="8O4=vc`Ne7~nSc%iT-2:"><field name="name">587</field></shadow></value><value name="duration"><shadow type="device_beat" id="t`9Z(UbK3^[!EVEQfm2;"><field name="fraction">BeatFraction.Double</field></shadow></value><next><block type="device_show_leds" id="dsJf[C)C{O/p8V,62*HV"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="vHb(o/]e^?xa=(tfDqI@"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="OnJ%=|#fc6uZUtQGimLq" x="886" y="-1487"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id=";c+]mQokO.~j3+5!xsh|"><field name="LEDS">`
+        . . . . # 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="%|$^PJK=+b.mc%Z?`SU0"><field name="LEDS">`
+        . . . # . 
+        . . . . # 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="a-2,WUNxB(^Ru[guQ2?0"><field name="LEDS">`
+        . . . # . 
+        . . . # # 
+        . . . . # 
+        # # # # # 
+        . . . . #
+        `</field><next><block type="device_play_note" id="sxPu!}6-v5rf;/6*dBJl"><value name="note"><shadow type="device_note" id="on2r|cv7X?_t;gc)LKW@"><field name="name">784</field></shadow></value><value name="duration"><shadow type="device_beat" id="Ehu5,LGv3Wh;{VIKZTgZ"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="Sg$R;rDHMA%t9cKVBHLY"><field name="LEDS">`
+        . . . # . 
+        . . . # . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_play_note" id="|8{3q~gy{;koH$J1W@8Z"><value name="note"><shadow type="device_note" id="0/;89CA1I!W(;*gK2(^S"><field name="name">698</field></shadow></value><value name="duration"><shadow type="device_beat" id="5iW3KdkNxVTMg-n+/Drj"><field name="fraction">BeatFraction.Double</field></shadow></value><next><block type="device_show_leds" id="nc/8M[/I3LkJ6plq;CYA"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="4}R)0hYrETgjUl4*~#2l"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="*@tf{8VcLQ|CGuwJS{O-" x="1830" y="-529"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="~kax9#TMc=[(}Z!HK_c?"><field name="LEDS">`
+        . . . # . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="^^8^nG;3M]fNw~,=hx^3"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="/hI+.%{ZoYWJIA)baDX7"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="2yywYE,71Kuj`nN0d?}a"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="(tvVsY}2VyuE20tQ!yp*"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="*g?LHSrxu=~0kBe;fX%o"><field name="i">IconNames.No</field><next><block type="device_print_message" id="1AzH}KWWE4#@R7($)6[Q"><value name="text"><shadow type="text" id="R=-2|`^LD)1Alj1jZ?io"><field name="TEXT">TRY AGAIN</field></shadow></value><next><block type="device_show_leds" id="Xas|~FuGt[ryRKVX^i6L"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="OS}}.twl[=~ghjD5]1@r" x="1227" y="-212"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="7O${X,):SjlMh+8@l9^k"><field name="LEDS">`
+        . . . . # 
+        . . . . . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="O:O1Ue{-kND=l5~+r7/9"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . . # 
+        # # # # # 
+        . . . . #
+        `</field><next><block type="device_play_note" id="^dw{[`98,`nS64ET.`[6"><value name="note"><shadow type="device_note" id="54MWc04{QwuHb5AP^khh"><field name="name">784</field></shadow></value><value name="duration"><shadow type="device_beat" id="W6ZR2.6lkk.o/z@TmEAO"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="/IPJB.#mARTf=zLZrXJF"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="r3Z(hvHfRe|m=:^cQ~fq"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_pin_event" id="KaCC^(_T{2v*0Yd`H]R^" x="1016" y="-36"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="~;FtdcU=-MThNB9N|z)]"><field name="LEDS">`
+        . . . # . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="*^2wU_CidaU`L3_H,v@m"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        . . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_play_note" id="^/Uq=Ptdz`GD?#mRi|%T"><value name="note"><shadow type="device_note" id="^Z6FO8lP/DBw8A;AFsX5"><field name="name">698</field></shadow></value><value name="duration"><shadow type="device_beat" id="}2dV%I*d`IP]Lv6?o^N%"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="k^z.y.,}4=asrC`n_D?H"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="7CTH?liOnIiO-+lY0Ed:" x="324" y="1"><statement name="HANDLER"><block type="device_show_leds" id="AKSvs6#ZB:f*l[|*Ej]^"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></statement></block><block type="device_pin_event" id="xg2p8gA~rS4SPHOZpc{B" x="800" y="-20"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="EBO(v[M/wESGePB4;0JG"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="!{w(%~Lg_AZ,c!iLhe4D"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_play_note" id="om-hplI1!!VEUJ-`ao.|"><value name="note"><shadow type="device_note" id="yNALK?LI]vsjU=$:gQl8"><field name="name">659</field></shadow></value><value name="duration"><shadow type="device_beat" id="KZaM#[:KT:`Ohp/Sl-~d"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="HP$AhpniLF7)[PLy!/4k"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="bw}WyJeUUz(a/4lu?I0v" x="1477" y="-45"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="ynPYn$)HC(|Bc7wx|L1q"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="hXg9w?*qqdD86gl:r5Sf"><field name="LEDS">`
+        . . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # # 
+        # . . . .
+        `</field><next><block type="device_play_note" id="^Qp]o@f0MQ.4vs--OFSo"><value name="note"><shadow type="device_note" id="n$![6VyzM~1%b?t#Vwn("><field name="name">523</field></shadow></value><value name="duration"><shadow type="device_beat" id="dDZto3}l?@I}jZHN%C*?"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="gm6;kaY)3oYVp4%=DReL"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="pK9;,i0f)vV~+16wyJ?G"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_pin_event" id="h/h9%UO+Mc)HE7O^b0$!" x="577" y="105"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_leds" id="RyRh57zFAgEG3e89Ue4a"><field name="LEDS">`
+        . # . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="NT:/tu4Ngw]dZD^(c241"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . # . . . 
+        # # # # # 
+        . # . . .
+        `</field><next><block type="device_play_note" id=",IJL|JO}U,Oej]x#Ctcd"><value name="note"><shadow type="device_note" id="llD2iB,5V16.wpFSeMja"><field name="name">587</field></shadow></value><value name="duration"><shadow type="device_beat" id=",I!s]Qd@VUjHxsa1LAuD"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="ZW37I:S0JzG#N;533J`P"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></statement></block><block type="input_logo_event" id="gB8BAi4|yFi2_fA=;Gbd" x="41" y="225"><field name="action">TouchButtonEvent.LongPressed</field><statement name="HANDLER"><block type="device_print_message" id="^3FC_/_~x|RrYq-qFq}{"><value name="text"><shadow type="text" id="!uK!R{=7rgwdbjnptyUI"><field name="TEXT">PRESS LOGO TO PLAY!</field></shadow></value><next><block type="device_print_message" id="7U}NCGEdKzM@b0Sd#,[1"><value name="text"><shadow type="text" id="Jw1P[Ex02_%nCYn/kpKk"><field name="TEXT">PAUSE</field></shadow></value><next><block type="device_print_message" id="hy|G2(gilzSvH62qMoQ)"><value name="text"><shadow type="text" id="9YW;wlr7[08GB;jqRPz."><field name="TEXT">PAUSE</field></shadow></value><next><block type="device_clear_display" id="#e(xoM931a@#_$%$AxXy"><next><block type="device_show_leds" id="F%+M7[3i6@AGp6~$|}`8"><field name="LEDS">`
+        . # . . . 
+        . # # . . 
+        . # # # . 
+        . # # . . 
+        . # . . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="input_logo_event" id="}qp{Za,EXJh1)16nb;uy" x="68" y="825"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id=":3K}z3d9ibswQfJn.njd"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        # # # # # 
+        . . # . .
+        `</field></block></statement></block></xml>
